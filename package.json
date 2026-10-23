@@ -1,0 +1,28 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "My first Electron app by Gustavo Amezcua (contact@developergus.com)",
+  "keywords": [
+    "Electron",
+    "Electron",
+    "Fiddle"
+  ],
+  "homepage": "https://github.com/subzero783/first-electron-app#readme",
+  "bugs": {
+    "url": "https://github.com/subzero783/first-electron-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subzero783/first-electron-app.git"
+  },
+  "license": "ISC",
+  "author": "Gustavo Amezcua",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^45.0.0"
+  }
+}
